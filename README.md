@@ -15,12 +15,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Dejmian11/7-Profile-card-component/blob/master/images/design/Screenshot%20-%20%20Frontend%20Mentor%20Profile%20card%20component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/profile-card-component-with-sass-Z0n3vCeAGs)
+- Live Site URL: [Live](https://luminous-fenglisu-2a3f89.netlify.app/)
 
 ## My process
 
