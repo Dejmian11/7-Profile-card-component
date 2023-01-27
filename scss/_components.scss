@@ -22,6 +22,10 @@
 		margin-top: 4.75rem;
 		border: 5px solid var(--clr-neutral-900);
 		border-radius: 50%;
+
+    @include respond(sm) {
+      margin-top: 5.5rem;
+    }
 	}
 
 	&__content {
